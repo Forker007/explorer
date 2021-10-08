@@ -9,23 +9,23 @@
         showExchangesSection: false,
         menuItemsVisibility: {
             showWallet: true,
-            walletLink: 'https://bit-wallet.enecuum.com',
+            walletLink: '',
             showROICalc: true,
             showHowToSwap: false
         },
         externalLinks: {
             topMenuItemsLinks: {
-                walletLink: 'https://bit-wallet.enecuum.com'
+                walletLink: ''
             },
 
-            peerMapURL: 'https://bit.enecuum.com/',
+            peerMapURL: '',
             documents: {
-                whitepaper: 'https://enecuum.com/pdf/pp_en.pdf',
+                whitepaper: '',
             },
             projectMedia: {                            
-                twitter: 'https://twitter.com/enq_enecuum',
-                telegram: 'https://t.me/Enecuum_EN',
-                github: 'https://github.com/Enecuum'
+                twitter: '',
+                telegram: '',
+                github: ''
             }
         },
         pagesSectionsVisibility: {
