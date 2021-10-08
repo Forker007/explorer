@@ -1,11 +1,11 @@
 (function() {
 	let explorerConfig = {
         theme: 'white',
-        tokenName: 'ENQ',
+        tokenName: 'BITRA',
         tokenHash: '0000000000000000000000000000000000000000000000000000000000000000',
         favicon: 'assets/images/favicon_en.ico',
         tokenLogoFileLink: 'logo-white.png',
-        logoLinkTarget: 'https://enecuum.com',                    
+        logoLinkTarget: 'https://bitranium.com',                    
         showExchangesSection: true,
         menuItemsVisibility: {
             showWallet: true,
@@ -14,24 +14,20 @@
         },
         externalLinks: {
             topMenuItemsLinks: {
-                walletLink: 'https://wallet.enecuum.com',
+                walletLink: 'https://wallet.bitranium.com',
             },
-            peerMapURL: 'https://pulse2.enecuum.com/',
+            peerMapURL: 'https://pulse2.bitranium.com/',
             documents: {
-                whitepaper: 'https://enecuum.com/pdf/pp_en.pdf',
+                whitepaper: 'https://bitranium.com/pdf/pp_en.pdf',
             },
             projectMedia: {                            
-                // facebook: 'https://www.facebook.com/enecuum.EN/?ref=bookmarks',
-                twitter: 'https://twitter.com/enq_enecuum',
-                medium: 'https://blog.enecuum.com/',
-                github: 'https://github.com/Enecuum',
-                forklog: 'https://hub.forklog.com/companies/enecuum/',
-                bitcointalk: 'https://bitcointalk.org/index.php?topic=2939909.0;topicseen',
-                linkedin: 'https://www.linkedin.com/company/enecuum-limited/',
+                // facebook: 'https://www.facebook.com/bitranium',
+                twitter: 'https://twitter.com/bitranium',
+                medium: 'https://blog.bitranium.com/',
+                github: 'https://github.com/Forker007',
+                linkedin: 'https://www.linkedin.com/company/bitranium-limited/',
                 youtube: 'https://www.youtube.com/channel/UCyZqNfzK_PP82nkAVOlmN4Q',
-                qq: 'https://qm.qq.com/cgi-bin/qm/qr?k=YfdokyjJnlKl0eAuhVXEc6JtVsoKnxvI&authKey=6WpHwP4Cu/kAAyPyVuBWZeQCjhEyijvLyGf6Jj6P7f9LVCe/9ZZC7YIfRtudjD23&noverify=0',
-                weixin: 'https://weixin.qq.com/g/AwYAAJdSThUYHIJmetSinRGfcwtrkRovBmLZZr5moi0UXRIW56Me4ts56gByaeYU',
-                telegram: 'https://t.me/Enecuum_EN'
+                telegram: 'https://t.me/bitranium'
             }
         },
         pagesSectionsVisibility: {
